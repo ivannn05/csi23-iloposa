@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "csi23-iloposa/1.0.0": {
+        "runtime": {
+          "csi23-iloposa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csi23-iloposa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\bin\Debug\net6.0\csi23-iloposa.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\bin\Debug\net6.0\csi23-iloposa.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\bin\Debug\net6.0\csi23-iloposa.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\bin\Debug\net6.0\csi23-iloposa.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\bin\Debug\net6.0\csi23-iloposa.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\refint\csi23-iloposa.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\csi23-iloposa.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23-iloposa\obj\Debug\net6.0\ref\csi23-iloposa.dll
